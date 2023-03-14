@@ -1,0 +1,11 @@
+digraph "Cache&lt; K, V &gt;"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="Cache\< K, V \>",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="orange",style="dashed",label=" \< std::string, LookupInfo \>",fontcolor="grey" ];
+  Node2 [label="Cache\< std::string,\l LookupInfo \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dc/d67/class_cache.html",tooltip=" "];
+}

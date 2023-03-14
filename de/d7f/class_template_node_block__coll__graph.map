@@ -1,0 +1,9 @@
+<map id="TemplateNodeBlock" name="TemplateNodeBlock">
+<area shape="rect" id="node1" title="Class representing a &#39;block&#39; tag in a template." alt="" coords="397,299,549,324"/>
+<area shape="rect" id="node2" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="129,196,312,236"/>
+<area shape="rect" id="node3" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,5,121,31"/>
+<area shape="rect" id="node5" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="62,101,265,126"/>
+<area shape="rect" id="node4" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="273,5,352,31"/>
+<area shape="rect" id="node6" href="$df/daf/class_template_node_list.html" title="Class representing a list of AST nodes in a template." alt="" coords="525,203,663,229"/>
+<area shape="rect" id="node7" title=" " alt="" coords="510,93,710,133"/>
+</map>

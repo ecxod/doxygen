@@ -1,0 +1,5 @@
+<map id="TemplateImpl" name="TemplateImpl">
+<area shape="rect" id="node1" title="Internal class representing the implementation of a template." alt="" coords="69,79,180,104"/>
+<area shape="rect" id="node2" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,5,121,31"/>
+<area shape="rect" id="node3" href="$d5/de9/class_template.html" title="Abstract interface for a template." alt="" coords="146,5,229,31"/>
+</map>

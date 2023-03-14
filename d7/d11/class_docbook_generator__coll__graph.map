@@ -1,0 +1,7 @@
+<map id="DocbookGenerator" name="DocbookGenerator">
+<area shape="rect" id="node1" title=" " alt="" coords="213,225,357,251"/>
+<area shape="rect" id="node2" href="$d3/d8e/class_output_generator.html" title="Base class for specific output generators." alt="" coords="220,137,351,163"/>
+<area shape="rect" id="node3" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="5,5,101,31"/>
+<area shape="rect" id="node5" href="$d7/d80/class_docbook_code_generator.html" title=" " alt="" coords="18,137,195,163"/>
+<area shape="rect" id="node4" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="259,5,338,31"/>
+</map>

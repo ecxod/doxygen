@@ -1,0 +1,120 @@
+<map id="/home/runner/work/doxygen/doxygen/src/util.cpp" name="/home/runner/work/doxygen/doxygen/src/util.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3847,5,4052,45"/>
+<area shape="rect" id="node2" title=" " alt="" coords="43,753,114,779"/>
+<area shape="rect" id="node3" title=" " alt="" coords="7673,93,7741,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="7765,93,7833,119"/>
+<area shape="rect" id="node5" title=" " alt="" coords="7857,93,7927,119"/>
+<area shape="rect" id="node6" title=" " alt="" coords="190,753,261,779"/>
+<area shape="rect" id="node7" title=" " alt="" coords="7952,93,8027,119"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3493,680,3557,705"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1112,680,1227,705"/>
+<area shape="rect" id="node10" title=" " alt="" coords="8051,93,8125,119"/>
+<area shape="rect" id="node11" title=" " alt="" coords="459,900,544,925"/>
+<area shape="rect" id="node12" title=" " alt="" coords="6407,607,6465,632"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1029,900,1094,925"/>
+<area shape="rect" id="node14" title=" " alt="" coords="8149,93,8232,119"/>
+<area shape="rect" id="node15" title=" " alt="" coords="7269,680,7344,705"/>
+<area shape="rect" id="node16" title=" " alt="" coords="8257,93,8319,119"/>
+<area shape="rect" id="node17" href="$d1/d21/regex_8h.html" title=" " alt="" coords="2670,753,2741,779"/>
+<area shape="rect" id="node22" href="$d8/d3c/util_8h.html" title="A bunch of utility functions." alt="" coords="3567,167,3622,192"/>
+<area shape="rect" id="node35" href="$db/d7c/utf8_8h.html" title="Various UTF8 related helper functions." alt="" coords="7219,900,7279,925"/>
+<area shape="rect" id="node48" href="$d4/d7d/textstream_8h.html" title=" " alt="" coords="6924,607,7031,632"/>
+<area shape="rect" id="node52" href="$d1/d02/reflist_8h.html" title=" " alt="" coords="2323,680,2394,705"/>
+<area shape="rect" id="node53" href="$d4/d3a/filedef_8h.html" title=" " alt="" coords="1251,313,1325,339"/>
+<area shape="rect" id="node54" href="$dd/d78/memberlist_8h.html" title=" " alt="" coords="1115,387,1224,412"/>
+<area shape="rect" id="node57" href="$df/d9b/arguments_8h.html" title=" " alt="" coords="3155,607,3259,632"/>
+<area shape="rect" id="node58" href="$d1/da6/classdef_8h.html" title=" " alt="" coords="1750,533,1837,559"/>
+<area shape="rect" id="node59" href="$d9/d11/membergroup_8h.html" title=" " alt="" coords="2259,607,2386,632"/>
+<area shape="rect" id="node60" href="$d2/d0d/message_8h.html" title=" " alt="" coords="7373,93,7467,119"/>
+<area shape="rect" id="node62" href="$d1/da1/doxygen_8h.html" title=" " alt="" coords="1732,313,1823,339"/>
+<area shape="rect" id="node63" href="$d6/d15/dirdef_8h.html" title=" " alt="" coords="1603,533,1674,559"/>
+<area shape="rect" id="node69" href="$d2/db9/outputlist_8h.html" title=" " alt="" coords="4596,240,4692,265"/>
+<area shape="rect" id="node74" href="$db/d16/config_8h.html" title=" " alt="" coords="5263,533,5337,559"/>
+<area shape="rect" id="node82" href="$d8/d65/defargs_8h.html" title=" " alt="" coords="4499,607,4581,632"/>
+<area shape="rect" id="node83" href="$d8/dce/language_8h.html" title=" " alt="" coords="5445,387,5539,412"/>
+<area shape="rect" id="node85" href="$de/d1b/datetime_8h.html" title=" " alt="" coords="6281,533,6375,559"/>
+<area shape="rect" id="node86" href="$d8/dc3/htmlhelp_8h.html" title=" " alt="" coords="5385,753,5477,779"/>
+<area shape="rect" id="node87" href="$df/d24/example_8h.html" title=" " alt="" coords="613,753,704,779"/>
+<area shape="rect" id="node88" title=" " alt="" coords="8344,93,8427,119"/>
+<area shape="rect" id="node89" href="$d1/de6/groupdef_8h.html" title=" " alt="" coords="2248,460,2339,485"/>
+<area shape="rect" id="node91" href="$dd/d66/pagedef_8h.html" title=" " alt="" coords="2054,167,2141,192"/>
+<area shape="rect" id="node92" href="$db/d16/debug_8h.html" title=" " alt="" coords="7660,753,7735,779"/>
+<area shape="rect" id="node93" href="$de/d07/searchindex_8h.html" title="Web server based search engine." alt="" coords="2614,607,2727,632"/>
+<area shape="rect" id="node94" href="$dd/d72/growbuf_8h.html" title=" " alt="" coords="123,680,210,705"/>
+<area shape="rect" id="node95" href="$dd/d66/textdocvisitor_8h.html" title=" " alt="" coords="6655,533,6777,559"/>
+<area shape="rect" id="node99" href="$db/dc6/htmlentity_8h.html" title=" " alt="" coords="6418,753,6518,779"/>
+<area shape="rect" id="node100" href="$d8/d99/latexdocvisitor_8h.html" title=" " alt="" coords="5764,533,5895,559"/>
+<area shape="rect" id="node101" href="$d2/de2/portable_8h.html" title="Portable versions of functions that are platform dependent." alt="" coords="6756,607,6844,632"/>
+<area shape="rect" id="node103" href="$da/d55/parserintf_8h.html" title=" " alt="" coords="2163,533,2259,559"/>
+<area shape="rect" id="node104" href="$d4/de5/bufstr_8h.html" title=" " alt="" coords="6921,753,6991,779"/>
+<area shape="rect" id="node105" href="$d5/db2/image_8h.html" title=" " alt="" coords="6489,607,6564,632"/>
+<area shape="rect" id="node106" href="$d1/dc6/entry_8h.html" title=" " alt="" coords="3843,533,3909,559"/>
+<area shape="rect" id="node107" href="$d2/df8/classlist_8h.html" title=" " alt="" coords="897,460,983,485"/>
+<area shape="rect" id="node108" href="$d7/d97/namespacedef_8h.html" title=" " alt="" coords="1229,240,1358,265"/>
+<area shape="rect" id="node109" href="$d7/dfc/membername_8h.html" title=" " alt="" coords="1907,387,2034,412"/>
+<area shape="rect" id="node110" href="$dc/dd6/filename_8h.html" title=" " alt="" coords="3656,93,3747,119"/>
+<area shape="rect" id="node111" href="$d9/db2/symbolresolver_8h.html" title=" " alt="" coords="3987,460,4122,485"/>
+<area shape="rect" id="node112" href="$df/d45/fileinfo_8h.html" title=" " alt="" coords="539,827,618,852"/>
+<area shape="rect" id="node113" href="$df/d9c/dir_8h.html" title=" " alt="" coords="539,753,589,779"/>
+<area shape="rect" id="node114" href="$d5/d61/indexlist_8h.html" title=" " alt="" coords="4131,607,4221,632"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3925,827,4003,852"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2197,973,2256,999"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1739,827,1802,852"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3294,827,3365,852"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2393,827,2517,852"/>
+<area shape="rect" id="node24" title=" " alt="" coords="3413,753,3499,779"/>
+<area shape="rect" id="node25" title=" " alt="" coords="6721,680,6794,705"/>
+<area shape="rect" id="node26" title=" " alt="" coords="4157,753,4225,779"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3347,680,3418,705"/>
+<area shape="rect" id="node28" href="$d9/d49/types_8h.html" title="This file contains a number of basic enums and types." alt="" coords="5313,680,5383,705"/>
+<area shape="rect" id="node36" href="$de/d9c/docparser_8h.html" title=" " alt="" coords="5694,680,5791,705"/>
+<area shape="rect" id="node39" href="$d5/d75/containers_8h.html" title=" " alt="" coords="1454,607,1557,632"/>
+<area shape="rect" id="node43" href="$df/d06/outputgen_8h.html" title=" " alt="" coords="4999,533,5099,559"/>
+<area shape="rect" id="node50" href="$da/df1/conceptdef_8h.html" title=" " alt="" coords="2091,240,2197,265"/>
+<area shape="rect" id="node29" href="$d7/d5c/qcstring_8h.html" title=" " alt="" coords="5830,827,5917,852"/>
+<area shape="rect" id="node30" title=" " alt="" coords="5888,900,5955,925"/>
+<area shape="rect" id="node31" title=" " alt="" coords="6999,900,7060,925"/>
+<area shape="rect" id="node32" title=" " alt="" coords="6570,900,6635,925"/>
+<area shape="rect" id="node33" title=" " alt="" coords="7249,973,7316,999"/>
+<area shape="rect" id="node34" title=" " alt="" coords="5787,900,5863,925"/>
+<area shape="rect" id="node37" title=" " alt="" coords="6276,753,6343,779"/>
+<area shape="rect" id="node38" href="$d7/d50/growvector_8h.html" title=" " alt="" coords="4676,753,4783,779"/>
+<area shape="rect" id="node40" title=" " alt="" coords="995,680,1037,705"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2248,680,2299,705"/>
+<area shape="rect" id="node42" title=" " alt="" coords="5459,680,5517,705"/>
+<area shape="rect" id="node44" title=" " alt="" coords="6395,680,6475,705"/>
+<area shape="rect" id="node45" href="$d1/db5/index_8h.html" title=" " alt="" coords="4035,607,4106,632"/>
+<area shape="rect" id="node46" href="$d1/d2a/section_8h.html" title=" " alt="" coords="4569,680,4650,705"/>
+<area shape="rect" id="node47" href="$da/de1/linkedmap_8h.html" title=" " alt="" coords="939,753,1042,779"/>
+<area shape="rect" id="node49" title=" " alt="" coords="5501,753,5593,779"/>
+<area shape="rect" id="node51" href="$df/da1/definition_8h.html" title=" " alt="" coords="1987,607,2082,632"/>
+<area shape="rect" id="node55" href="$d4/d46/memberdef_8h.html" title=" " alt="" coords="2515,460,2624,485"/>
+<area shape="rect" id="node56" title=" " alt="" coords="6549,680,6645,705"/>
+<area shape="rect" id="node61" title=" " alt="" coords="7425,167,7495,192"/>
+<area shape="rect" id="node64" href="$df/d67/define_8h.html" title=" " alt="" coords="1861,533,1936,559"/>
+<area shape="rect" id="node65" href="$d3/d26/cache_8h.html" title=" " alt="" coords="3333,607,3405,632"/>
+<area shape="rect" id="node68" href="$d7/ddd/symbolmap_8h.html" title=" " alt="" coords="1961,680,2071,705"/>
+<area shape="rect" id="node66" title=" " alt="" coords="3280,680,3323,705"/>
+<area shape="rect" id="node67" title=" " alt="" coords="3171,753,3231,779"/>
+<area shape="rect" id="node70" href="$da/d73/dispatcher_8h.html" title=" " alt="" coords="3987,680,4088,705"/>
+<area shape="rect" id="node72" href="$d8/d56/htmlgen_8h.html" title=" " alt="" coords="5051,313,5139,339"/>
+<area shape="rect" id="node73" href="$d6/d9c/latexgen_8h.html" title=" " alt="" coords="5213,460,5304,485"/>
+<area shape="rect" id="node76" href="$d4/daa/rtfgen_8h.html" title=" " alt="" coords="4761,460,4834,485"/>
+<area shape="rect" id="node78" href="$da/dc0/mangen_8h.html" title=" " alt="" coords="4707,313,4794,339"/>
+<area shape="rect" id="node79" href="$de/dea/docbookgen_8h.html" title=" " alt="" coords="4623,460,4737,485"/>
+<area shape="rect" id="node80" href="$d9/d67/xmlgen_8h.html" title=" " alt="" coords="4853,387,4936,412"/>
+<area shape="rect" id="node81" href="$d8/de5/devnullgen_8h.html" title=" " alt="" coords="4869,313,4976,339"/>
+<area shape="rect" id="node71" title=" " alt="" coords="3855,753,3926,779"/>
+<area shape="rect" id="node75" title=" " alt="" coords="5386,607,5502,632"/>
+<area shape="rect" id="node77" title=" " alt="" coords="5232,680,5288,705"/>
+<area shape="rect" id="node84" href="$d9/df1/translator_8h.html" title=" " alt="" coords="5379,460,5475,485"/>
+<area shape="rect" id="node90" href="$db/d51/layout_8h.html" title=" " alt="" coords="2904,607,2979,632"/>
+<area shape="rect" id="node96" href="$d2/d3c/docvisitor_8h.html" title=" " alt="" coords="6019,680,6117,705"/>
+<area shape="rect" id="node97" href="$de/d2b/docnode_8h.html" title=" " alt="" coords="5785,607,5874,632"/>
+<area shape="rect" id="node98" href="$d0/d73/htmlattrib_8h.html" title=" " alt="" coords="4553,753,4652,779"/>
+<area shape="rect" id="node102" title=" " alt="" coords="6921,680,6991,705"/>
+<area shape="rect" id="node115" href="$d1/db2/docsets_8h.html" title=" " alt="" coords="4909,753,4993,779"/>
+<area shape="rect" id="node116" href="$db/d9e/eclipsehelp_8h.html" title=" " alt="" coords="5253,753,5361,779"/>
+<area shape="rect" id="node117" href="$d2/d4a/ftvhelp_8h.html" title=" " alt="" coords="4002,753,4081,779"/>
+<area shape="rect" id="node118" href="$dc/d20/qhp_8h.html" title=" " alt="" coords="5017,753,5076,779"/>
+</map>

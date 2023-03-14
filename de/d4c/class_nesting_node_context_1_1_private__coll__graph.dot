@@ -1,0 +1,54 @@
+digraph "NestingNodeContext::Private"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="NestingNodeContext\l::Private",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_parent",fontcolor="grey" ];
+  Node2 [label="NestingNodeContext",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$db/dc9/class_nesting_node_context.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="TemplateStructIntf",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/de8/class_template_struct_intf.html",tooltip="Abstract interface for a context value of type struct."];
+  Node4 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_def",fontcolor="grey" ];
+  Node4 [label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+  Node5 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_class",fontcolor="grey" ];
+  Node5 [label="CachedItem\< TemplateVariant,\l NestingNodeContext::Private,\l &Private::createClass \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node6 -> Node5 [dir="back",color="darkorchid3",style="dashed",label=" m_item",fontcolor="grey" ];
+  Node6 [label="TemplateVariant",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d1/dba/class_template_variant.html",tooltip="Variant type which can hold one value of a fixed set of types."];
+  Node7 -> Node5 [dir="back",color="orange",style="dashed",label=" \< TemplateVariant,\l NestingNodeContext\l::Private, &Private::\lcreateClass \>",fontcolor="grey" ];
+  Node7 [label="CachedItem\< T, TOwner,\l creator \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip="Wrapper for data that needs to be cached."];
+  Node8 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_namespace",fontcolor="grey" ];
+  Node8 [label="CachedItem\< TemplateVariant,\l NestingNodeContext::Private,\l &Private::createNamespace \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node6 -> Node8 [dir="back",color="darkorchid3",style="dashed",label=" m_item",fontcolor="grey" ];
+  Node7 -> Node8 [dir="back",color="orange",style="dashed",label=" \< TemplateVariant,\l NestingNodeContext\l::Private, &Private::\lcreateNamespace \>",fontcolor="grey" ];
+  Node9 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_dir",fontcolor="grey" ];
+  Node9 [label="CachedItem\< TemplateVariant,\l NestingNodeContext::Private,\l &Private::createDir \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node6 -> Node9 [dir="back",color="darkorchid3",style="dashed",label=" m_item",fontcolor="grey" ];
+  Node7 -> Node9 [dir="back",color="orange",style="dashed",label=" \< TemplateVariant,\l NestingNodeContext\l::Private, &Private::\lcreateDir \>",fontcolor="grey" ];
+  Node10 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_file",fontcolor="grey" ];
+  Node10 [label="CachedItem\< TemplateVariant,\l NestingNodeContext::Private,\l &Private::createFile \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node6 -> Node10 [dir="back",color="darkorchid3",style="dashed",label=" m_item",fontcolor="grey" ];
+  Node7 -> Node10 [dir="back",color="orange",style="dashed",label=" \< TemplateVariant,\l NestingNodeContext\l::Private, &Private::\lcreateFile \>",fontcolor="grey" ];
+  Node11 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_page",fontcolor="grey" ];
+  Node11 [label="CachedItem\< TemplateVariant,\l NestingNodeContext::Private,\l &Private::createPage \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node6 -> Node11 [dir="back",color="darkorchid3",style="dashed",label=" m_item",fontcolor="grey" ];
+  Node7 -> Node11 [dir="back",color="orange",style="dashed",label=" \< TemplateVariant,\l NestingNodeContext\l::Private, &Private::\lcreatePage \>",fontcolor="grey" ];
+  Node12 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_module",fontcolor="grey" ];
+  Node12 [label="CachedItem\< TemplateVariant,\l NestingNodeContext::Private,\l &Private::createModule \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node6 -> Node12 [dir="back",color="darkorchid3",style="dashed",label=" m_item",fontcolor="grey" ];
+  Node7 -> Node12 [dir="back",color="orange",style="dashed",label=" \< TemplateVariant,\l NestingNodeContext\l::Private, &Private::\lcreateModule \>",fontcolor="grey" ];
+  Node13 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_member",fontcolor="grey" ];
+  Node13 [label="CachedItem\< TemplateVariant,\l NestingNodeContext::Private,\l &Private::createMember \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node6 -> Node13 [dir="back",color="darkorchid3",style="dashed",label=" m_item",fontcolor="grey" ];
+  Node7 -> Node13 [dir="back",color="orange",style="dashed",label=" \< TemplateVariant,\l NestingNodeContext\l::Private, &Private::\lcreateMember \>",fontcolor="grey" ];
+  Node14 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_brief",fontcolor="grey" ];
+  Node14 [label="CachedItem\< TemplateVariant,\l NestingNodeContext::Private,\l &Private::createBrief \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node6 -> Node14 [dir="back",color="darkorchid3",style="dashed",label=" m_item",fontcolor="grey" ];
+  Node7 -> Node14 [dir="back",color="orange",style="dashed",label=" \< TemplateVariant,\l NestingNodeContext\l::Private, &Private::\lcreateBrief \>",fontcolor="grey" ];
+  Node15 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" s_inst",fontcolor="grey" ];
+  Node15 [label="PropertyMap\< NestingNode\lContext::Private \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dbf/class_property_map.html",tooltip=" "];
+  Node16 -> Node15 [dir="back",color="orange",style="dashed",label=" \< NestingNodeContext\l::Private \>",fontcolor="grey" ];
+  Node16 [label="PropertyMap\< T \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dbf/class_property_map.html",tooltip="Class representing a mapping of properties and the corresponding getter function."];
+}

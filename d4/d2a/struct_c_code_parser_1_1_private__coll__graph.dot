@@ -1,0 +1,43 @@
+digraph "CCodeParser::Private"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="CCodeParser::Private",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" state",fontcolor="grey" ];
+  Node2 [label="codeYY_state",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$da/d28/structcode_y_y__state.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" code",fontcolor="grey" ];
+  Node3 [label="OutputCodeList",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$db/d8e/class_output_code_list.html",tooltip="Class representing a list of different code generators."];
+  Node4 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" args\nclassScope\ncurClassName\ndelimiter\nexampleFile\nexampleName\nfileName\nname\nparmName\nparmType\n...",fontcolor="grey" ];
+  Node4 [label="QCString",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/d45/class_q_c_string.html",tooltip="This is an alternative implementation of QCString."];
+  Node5 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" sourceFileDef",fontcolor="grey" ];
+  Node5 [label="FileDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$de/db0/class_file_def.html",tooltip="A model of a file symbol."];
+  Node6 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="DefinitionMutable",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d46/class_definition_mutable.html",tooltip=" "];
+  Node7 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node7 [label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+  Node7 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" currentDefinition\nsearchCtx",fontcolor="grey" ];
+  Node8 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" currentMemberDef",fontcolor="grey" ];
+  Node8 [label="MemberDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$da/d09/class_member_def.html",tooltip="A model of a class/file/namespace member symbol."];
+  Node7 -> Node8 [dir="back",color="steelblue1",style="solid"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" currentCtx",fontcolor="grey" ];
+  Node9 [label="ObjCCallCtx",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d8/d10/struct_obj_c_call_ctx.html",tooltip=" "];
+  Node4 -> Node9 [dir="back",color="darkorchid3",style="dashed",label=" format\nmethodName\nobjectTypeOrName",fontcolor="grey" ];
+  Node10 -> Node9 [dir="back",color="darkorchid3",style="dashed",label=" comment",fontcolor="grey" ];
+  Node10 [label="TextStream",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/d30/class_text_stream.html",tooltip="Text streaming class that buffers data."];
+  Node11 -> Node9 [dir="back",color="darkorchid3",style="dashed",label=" objectType",fontcolor="grey" ];
+  Node11 [label="ClassDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d1/dcf/class_class_def.html",tooltip="A abstract class representing of a compound symbol."];
+  Node7 -> Node11 [dir="back",color="steelblue1",style="solid"];
+  Node8 -> Node9 [dir="back",color="darkorchid3",style="dashed",label=" method\nobjectVar",fontcolor="grey" ];
+  Node12 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" theVarContext",fontcolor="grey" ];
+  Node12 [label="VariableContext",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d4/df2/class_variable_context.html",tooltip=" "];
+  Node13 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" theCallContext",fontcolor="grey" ];
+  Node13 [label="CallContext",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$de/da0/class_call_context.html",tooltip="Represents the call context."];
+  Node14 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" symbolResolver",fontcolor="grey" ];
+  Node14 [label="SymbolResolver",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$da/d0c/class_symbol_resolver.html",tooltip="Helper class to find a class definition or check if A symbol is accessible in a given scope."];
+  Node15 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" tooltipManager",fontcolor="grey" ];
+  Node15 [label="TooltipManager",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dae/class_tooltip_manager.html",tooltip="Class that manages the tooltips for a source file."];
+}

@@ -1,0 +1,23 @@
+digraph "NamespaceDefImpl"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="NamespaceDefImpl",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="DefinitionMixin\< Namespace\lDefMutable \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d10/class_definition_mixin.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="NamespaceDefMutable",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/dd5/class_namespace_def_mutable.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="DefinitionMutable",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d46/class_definition_mutable.html",tooltip=" "];
+  Node5 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="NamespaceDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d07/class_namespace_def.html",tooltip="An abstract interface of a namespace symbol."];
+  Node6 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+  Node7 -> Node2 [dir="back",color="orange",style="dashed",label=" \< NamespaceDefMutable \>",fontcolor="grey" ];
+  Node7 [label="DefinitionMixin\< Base \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d10/class_definition_mixin.html",tooltip=" "];
+  Node8 -> Node7 [dir="back",color="steelblue1",style="solid"];
+  Node8 [label="Base",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+}

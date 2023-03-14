@@ -1,0 +1,8 @@
+<map id="HtmlHelp::Private" name="HtmlHelp::Private">
+<area shape="rect" id="node1" title=" " alt="" coords="63,299,202,324"/>
+<area shape="rect" id="node2" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,196,84,221"/>
+<area shape="rect" id="node3" href="$df/d26/class_html_help_recoder.html" title="Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM..." alt="" coords="64,108,201,133"/>
+<area shape="rect" id="node4" href="$d0/d74/class_html_help_index.html" title="A helper class for HtmlHelp that manages a two level index in alphabetical order." alt="" coords="210,196,330,221"/>
+<area shape="rect" id="node5" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="226,108,415,133"/>
+<area shape="rect" id="node6" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="241,5,401,45"/>
+</map>

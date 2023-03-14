@@ -1,0 +1,20 @@
+digraph "SymbolGroupContext::Private"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="SymbolGroupContext\l::Private",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_symbolList",fontcolor="grey" ];
+  Node2 [label="CachedItem\< TemplateVariant,\l SymbolGroupContext::Private,\l&Private::createSymbolList \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" m_item",fontcolor="grey" ];
+  Node3 [label="TemplateVariant",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d1/dba/class_template_variant.html",tooltip="Variant type which can hold one value of a fixed set of types."];
+  Node4 -> Node2 [dir="back",color="orange",style="dashed",label=" \< TemplateVariant,\l SymbolGroupContext\l::Private,&Private::createSymbol\lList \>",fontcolor="grey" ];
+  Node4 [label="CachedItem\< T, TOwner,\l creator \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip="Wrapper for data that needs to be cached."];
+  Node5 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" s_inst",fontcolor="grey" ];
+  Node5 [label="PropertyMap\< SymbolGroup\lContext::Private \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dbf/class_property_map.html",tooltip=" "];
+  Node6 -> Node5 [dir="back",color="orange",style="dashed",label=" \< SymbolGroupContext\l::Private \>",fontcolor="grey" ];
+  Node6 [label="PropertyMap\< T \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dbf/class_property_map.html",tooltip="Class representing a mapping of properties and the corresponding getter function."];
+}

@@ -1,0 +1,7 @@
+<map id="RTFGenerator" name="RTFGenerator">
+<area shape="rect" id="node1" title="Generator for RTF output." alt="" coords="234,196,345,221"/>
+<area shape="rect" id="node2" href="$d3/d8e/class_output_generator.html" title="Base class for specific output generators." alt="" coords="224,108,355,133"/>
+<area shape="rect" id="node3" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="5,5,101,31"/>
+<area shape="rect" id="node5" href="$d2/df7/class_r_t_f_code_generator.html" title="Generator for RTF code fragments." alt="" coords="56,108,200,133"/>
+<area shape="rect" id="node4" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="263,5,342,31"/>
+</map>

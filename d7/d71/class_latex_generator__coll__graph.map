@@ -1,0 +1,7 @@
+<map id="LatexGenerator" name="LatexGenerator">
+<area shape="rect" id="node1" title="Generator for LaTeX output." alt="" coords="224,196,347,221"/>
+<area shape="rect" id="node2" href="$d3/d8e/class_output_generator.html" title="Base class for specific output generators." alt="" coords="220,108,351,133"/>
+<area shape="rect" id="node3" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="5,5,101,31"/>
+<area shape="rect" id="node5" href="$d0/d37/class_latex_code_generator.html" title="Generator for LaTeX code fragments." alt="" coords="39,108,195,133"/>
+<area shape="rect" id="node4" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="259,5,338,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="scannerYY_state" name="scannerYY_state">
+<area shape="rect" id="node1" title=" " alt="" coords="384,464,513,489"/>
+<area shape="rect" id="node2" href="$d5/d79/class_outline_parser_interface.html" title="Abstract interface for outline parsers." alt="" coords="5,161,172,187"/>
+<area shape="rect" id="node3" href="$d0/d6b/class_comment_scanner.html" title=" " alt="" coords="197,161,335,187"/>
+<area shape="rect" id="node4" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="387,5,465,31"/>
+<area shape="rect" id="node5" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list." alt="" coords="546,161,655,187"/>
+<area shape="rect" id="node6" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="679,161,775,187"/>
+<area shape="rect" id="node7" href="$dd/df8/class_clang_t_u_parser.html" title="Clang parser object for a single translation unit, which consists of a source file and the directly o..." alt="" coords="822,161,939,187"/>
+</map>

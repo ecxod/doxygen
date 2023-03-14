@@ -1,0 +1,13 @@
+<map id="DocParserContext" name="DocParserContext">
+<area shape="rect" id="node1" title="Parser&#39;s context to store all global variables." alt="" coords="1021,191,1160,217"/>
+<area shape="rect" id="node2" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="313,14,398,39"/>
+<area shape="rect" id="node8" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="734,51,833,77"/>
+<area shape="rect" id="node3" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="316,253,395,278"/>
+<area shape="rect" id="node9" href="$d6/df4/struct_token_info.html" title="Data associated with a token used by the comment block parser." alt="" coords="741,329,825,354"/>
+<area shape="rect" id="node4" href="$d9/d82/class_iterable_stack.html" title=" " alt="" coords="704,420,863,460"/>
+<area shape="rect" id="node5" title=" " alt="" coords="244,413,467,467"/>
+<area shape="rect" id="node6" href="$d9/d82/class_iterable_stack.html" title=" " alt="" coords="247,491,464,517"/>
+<area shape="rect" id="node7" title=" " alt="" coords="32,484,168,524"/>
+<area shape="rect" id="node10" href="$db/d4d/class_html_attrib_list.html" title="Class representing a list of HTML attributes." alt="" coords="299,363,412,389"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5,363,195,389"/>
+</map>

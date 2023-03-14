@@ -1,0 +1,6 @@
+<map id="HtmlHelpIndex" name="HtmlHelpIndex">
+<area shape="rect" id="node1" title="A helper class for HtmlHelp that manages a two level index in alphabetical order." alt="" coords="133,196,253,221"/>
+<area shape="rect" id="node2" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="5,108,195,133"/>
+<area shape="rect" id="node3" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="20,5,180,45"/>
+<area shape="rect" id="node4" href="$df/d26/class_html_help_recoder.html" title="Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM..." alt="" coords="219,108,357,133"/>
+</map>

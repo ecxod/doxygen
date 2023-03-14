@@ -1,0 +1,35 @@
+digraph "/home/runner/work/doxygen/doxygen/vhdlparser/Token.h"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/Token.h",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/ErrorHandler.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d3/dd5/_error_handler_8h.html",tooltip=" "];
+  Node2 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/VhdlParser.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d5/df9/_vhdl_parser_8h.html",tooltip=" "];
+  Node3 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="/home/runner/work/doxygen\l/doxygen/src/vhdldocgen.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$de/dea/vhdldocgen_8cpp.html",tooltip=" "];
+  Node3 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/VhdlParser\lErrorHandler.hpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d2/dc3/_vhdl_parser_error_handler_8hpp.html",tooltip=" "];
+  Node5 -> Node6 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="/home/runner/work/doxygen\l/doxygen/src/vhdljjparser.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d1/d86/vhdljjparser_8cpp.html",tooltip=" "];
+  Node3 -> Node7 [dir="back",color="steelblue1",style="solid"];
+  Node7 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/vhdlstring.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d9/d48/vhdlstring_8h.html",tooltip=" "];
+  Node7 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node7 -> Node8 [dir="back",color="steelblue1",style="solid"];
+  Node8 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/VhdlParser\lTokenManager.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d7/dad/_vhdl_parser_token_manager_8h.html",tooltip=" "];
+  Node8 -> Node6 [dir="back",color="steelblue1",style="solid"];
+  Node2 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node2 -> Node8 [dir="back",color="steelblue1",style="solid"];
+  Node1 -> Node9 [dir="back",color="steelblue1",style="solid"];
+  Node9 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/ParseException.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d7/de0/_parse_exception_8h.html",tooltip=" "];
+  Node1 -> Node10 [dir="back",color="steelblue1",style="solid"];
+  Node10 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/TokenManager.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d4/df9/_token_manager_8h.html",tooltip=" "];
+  Node10 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node10 -> Node8 [dir="back",color="steelblue1",style="solid"];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node1 -> Node8 [dir="back",color="steelblue1",style="solid"];
+}

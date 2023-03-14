@@ -1,0 +1,21 @@
+digraph "/home/runner/work/doxygen/doxygen/src/msc.h"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="/home/runner/work/doxygen\l/doxygen/src/msc.h",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="/home/runner/work/doxygen\l/doxygen/src/docbookvisitor.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dc/d05/docbookvisitor_8cpp.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="/home/runner/work/doxygen\l/doxygen/src/doxygen.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dc/d98/doxygen_8cpp.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="/home/runner/work/doxygen\l/doxygen/src/htmldocvisitor.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$da/db0/htmldocvisitor_8cpp.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="/home/runner/work/doxygen\l/doxygen/src/latexdocvisitor.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d1/d4e/latexdocvisitor_8cpp.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="/home/runner/work/doxygen\l/doxygen/src/msc.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$db/d33/msc_8cpp.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="steelblue1",style="solid"];
+  Node7 [label="/home/runner/work/doxygen\l/doxygen/src/rtfdocvisitor.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$de/d9a/rtfdocvisitor_8cpp.html",tooltip=" "];
+}

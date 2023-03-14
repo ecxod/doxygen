@@ -1,0 +1,11 @@
+<map id="TranslatorRussian" name="TranslatorRussian">
+<area shape="rect" id="node1" title=" " alt="" coords="32,592,169,617"/>
+<area shape="rect" id="node2" href="$d4/d2e/class_translator_adapter__1__8__15.html" title=" " alt="" coords="5,519,196,544"/>
+<area shape="rect" id="node3" href="$de/dde/class_translator_adapter__1__8__19.html" title=" " alt="" coords="5,445,196,471"/>
+<area shape="rect" id="node4" href="$d3/d2e/class_translator_adapter__1__9__2.html" title=" " alt="" coords="9,372,192,397"/>
+<area shape="rect" id="node5" href="$d0/d33/class_translator_adapter__1__9__4.html" title=" " alt="" coords="9,299,192,324"/>
+<area shape="rect" id="node6" href="$dd/dba/class_translator_adapter__1__9__5.html" title=" " alt="" coords="9,225,192,251"/>
+<area shape="rect" id="node7" href="$db/d71/class_translator_adapter__1__9__6.html" title=" " alt="" coords="9,152,192,177"/>
+<area shape="rect" id="node8" href="$db/d6c/class_translator_adapter_base.html" title="Base of the translator adapter tree." alt="" coords="16,79,185,104"/>
+<area shape="rect" id="node9" href="$d8/dfb/class_translator.html" title="Abstract base class for all translatable text fragments." alt="" coords="57,5,144,31"/>
+</map>

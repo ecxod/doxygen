@@ -1,0 +1,9 @@
+<map id="MemberGroup" name="MemberGroup">
+<area shape="rect" id="node1" title="A class representing a group of members." alt="" coords="107,300,221,325"/>
+<area shape="rect" id="node2" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,168,91,193"/>
+<area shape="rect" id="node3" href="$dd/d13/class_member_list.html" title="A list of MemberDef objects as shown in documentation sections." alt="" coords="115,168,213,193"/>
+<area shape="rect" id="node4" href="$d1/d7d/class_member_vector.html" title="A vector of MemberDef object." alt="" coords="53,80,171,105"/>
+<area shape="rect" id="node5" href="$d4/d15/class_member_group_ref_list.html" title=" " alt="" coords="195,80,355,105"/>
+<area shape="rect" id="node6" title=" " alt="" coords="162,5,387,31"/>
+<area shape="rect" id="node7" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="249,168,327,193"/>
+</map>

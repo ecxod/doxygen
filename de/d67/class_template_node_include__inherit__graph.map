@@ -1,0 +1,6 @@
+<map id="TemplateNodeInclude" name="TemplateNodeInclude">
+<area shape="rect" id="node1" title="Class representing an &#39;include&#39; tag in a template." alt="" coords="21,257,183,283"/>
+<area shape="rect" id="node2" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,199,208"/>
+<area shape="rect" id="node3" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="39,5,155,31"/>
+<area shape="rect" id="node4" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="118,80,321,105"/>
+</map>

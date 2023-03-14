@@ -1,0 +1,24 @@
+digraph "COutlineParser::Private"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="COutlineParser::Private",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" state",fontcolor="grey" ];
+  Node2 [label="scannerYY_state",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d4/dfb/structscanner_y_y__state.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" thisParser",fontcolor="grey" ];
+  Node3 [label="OutlineParserInterface",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/d79/class_outline_parser_interface.html",tooltip="Abstract interface for outline parsers."];
+  Node4 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" commentScanner",fontcolor="grey" ];
+  Node4 [label="CommentScanner",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d6b/class_comment_scanner.html",tooltip=" "];
+  Node5 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" aliasName\nbaseName\nbriefBackup\ncopyArgString\ndelimiter\ndocBackup\ndocBlockName\ndummyRawString\nfileName\nfullArgString\n...",fontcolor="grey" ];
+  Node5 [label="QCString",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/d45/class_q_c_string.html",tooltip="This is an alternative implementation of QCString."];
+  Node6 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" currentArgumentList",fontcolor="grey" ];
+  Node6 [label="ArgumentList",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/df8/class_argument_list.html",tooltip="This class represents an function or template argument list."];
+  Node5 -> Node6 [dir="back",color="darkorchid3",style="dashed",label=" m_trailingReturnType",fontcolor="grey" ];
+  Node7 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" docBlock\ndummyTextStream\npCopyCurlyGString\npCopyHereDocGString\npCopyQuotedGString\npCopyRawGString\npCopyRoundGString\npCopySquareGString\npSkipInterpString\npSkipInterpVerbString\n...",fontcolor="grey" ];
+  Node7 [label="TextStream",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/d30/class_text_stream.html",tooltip="Text streaming class that buffers data."];
+  Node8 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" clangParser",fontcolor="grey" ];
+  Node8 [label="ClangTUParser",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/df8/class_clang_t_u_parser.html",tooltip="Clang parser object for a single translation unit, which consists of a source file and the directly o..."];
+}

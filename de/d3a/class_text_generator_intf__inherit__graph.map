@@ -1,0 +1,7 @@
+<map id="TextGeneratorIntf" name="TextGeneratorIntf">
+<area shape="rect" id="node1" title="Abstract interface for a hyperlinked text fragment." alt="" coords="273,5,409,31"/>
+<area shape="rect" id="node2" href="$d7/d8a/class_text_generator_html.html" title=" " alt="" coords="5,79,152,104"/>
+<area shape="rect" id="node3" href="$d7/d67/class_text_generator_latex.html" title=" " alt="" coords="177,79,327,104"/>
+<area shape="rect" id="node4" href="$db/d2b/class_text_generator_o_l_impl.html" title="Implements TextGeneratorIntf for an OutputDocInterface stream." alt="" coords="352,79,512,104"/>
+<area shape="rect" id="node5" href="$db/d9f/class_text_generator_x_m_l_impl.html" title="Implements TextGeneratorIntf for an XML stream." alt="" coords="536,79,707,104"/>
+</map>

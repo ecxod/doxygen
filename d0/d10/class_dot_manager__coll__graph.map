@@ -1,0 +1,4 @@
+<map id="DotManager" name="DotManager">
+<area shape="rect" id="node1" title="Singleton that manages parallel dot invocations and patching files for embedding image maps." alt="" coords="21,93,123,119"/>
+<area shape="rect" id="node2" href="$d6/dbb/class_dot_runner_queue.html" title="Queue of dot jobs to run." alt="" coords="5,5,139,31"/>
+</map>

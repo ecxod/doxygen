@@ -1,0 +1,11 @@
+<map id="TemplateNodeTree::TreeContext" name="TemplateNodeTree::TreeContext">
+<area shape="rect" id="node1" title=" " alt="" coords="282,387,511,412"/>
+<area shape="rect" id="node2" href="$d8/d31/class_template_node_tree.html" title="Class representing an &#39;tree&#39; tag in a template." alt="" coords="244,299,387,324"/>
+<area shape="rect" id="node3" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="139,196,313,236"/>
+<area shape="rect" id="node4" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,5,121,31"/>
+<area shape="rect" id="node6" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="63,101,266,126"/>
+<area shape="rect" id="node5" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="255,5,333,31"/>
+<area shape="rect" id="node7" href="$df/daf/class_template_node_list.html" title="Class representing a list of AST nodes in a template." alt="" coords="414,203,553,229"/>
+<area shape="rect" id="node8" title=" " alt="" coords="461,93,661,133"/>
+<area shape="rect" id="node9" href="$da/d1b/class_template_context.html" title="Abstract interface for a template context." alt="" coords="411,299,545,324"/>
+</map>

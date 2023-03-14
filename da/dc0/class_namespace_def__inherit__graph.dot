@@ -1,0 +1,21 @@
+digraph "NamespaceDef"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="NamespaceDef",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="An abstract interface of a namespace symbol."];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="DefinitionAliasMixin\l\< NamespaceDef \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d8/d83/class_definition_alias_mixin.html",tooltip=" "];
+  Node3 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="NamespaceDefAliasImpl",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d2/d9c/class_namespace_def_alias_impl.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="NamespaceDefMutable",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/dd5/class_namespace_def_mutable.html",tooltip=" "];
+  Node5 -> Node6 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="DefinitionMixin\< Namespace\lDefMutable \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d10/class_definition_mixin.html",tooltip=" "];
+  Node6 -> Node7 [dir="back",color="steelblue1",style="solid"];
+  Node7 [label="NamespaceDefImpl",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dfa/class_namespace_def_impl.html",tooltip=" "];
+}

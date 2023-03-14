@@ -1,0 +1,7 @@
+<map id="ManGenerator" name="ManGenerator">
+<area shape="rect" id="node1" title="Generator for Man page output." alt="" coords="111,196,226,221"/>
+<area shape="rect" id="node2" href="$d3/d8e/class_output_generator.html" title="Base class for specific output generators." alt="" coords="178,108,309,133"/>
+<area shape="rect" id="node3" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="79,5,175,31"/>
+<area shape="rect" id="node5" href="$db/d92/class_man_code_generator.html" title="Generator for Man page code fragments." alt="" coords="5,108,153,133"/>
+<area shape="rect" id="node4" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="204,5,283,31"/>
+</map>

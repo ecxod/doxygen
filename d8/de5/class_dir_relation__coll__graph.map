@@ -1,0 +1,11 @@
+<map id="DirRelation" name="DirRelation">
+<area shape="rect" id="node1" title="A usage relation between two directories." alt="" coords="136,359,231,384"/>
+<area shape="rect" id="node2" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="43,271,121,296"/>
+<area shape="rect" id="node3" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol." alt="" coords="237,183,301,208"/>
+<area shape="rect" id="node6" href="$df/d42/class_used_dir.html" title="Usage information of a directory." alt="" coords="146,271,221,296"/>
+<area shape="rect" id="node4" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="199,108,338,133"/>
+<area shape="rect" id="node5" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="362,108,447,133"/>
+<area shape="rect" id="node7" href="$d3/d29/class_file_pair_linked_map.html" title="A linked map of file pairs." alt="" coords="29,183,167,208"/>
+<area shape="rect" id="node8" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="5,108,175,133"/>
+<area shape="rect" id="node9" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="10,5,170,45"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DocVerbatim::Private" name="DocVerbatim::Private">
+<area shape="rect" id="node1" title=" " alt="" coords="21,373,181,399"/>
+<area shape="rect" id="node2" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,168,84,193"/>
+<area shape="rect" id="node3" href="$d9/dd3/struct_doc_node_list.html" title=" " alt="" coords="109,168,213,193"/>
+<area shape="rect" id="node4" href="$d0/d08/class_grow_vector.html" title=" " alt="" coords="45,93,277,119"/>
+<area shape="rect" id="node5" href="$d0/d08/class_grow_vector.html" title="std::vector like container optimised for pushing elements to the back." alt="" coords="93,5,228,31"/>
+</map>

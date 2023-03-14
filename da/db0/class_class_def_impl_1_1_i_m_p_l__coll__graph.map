@@ -1,0 +1,28 @@
+<map id="ClassDefImpl::IMPL" name="ClassDefImpl::IMPL">
+<area shape="rect" id="node1" title="Private data associated with a ClassDef object." alt="" coords="1289,474,1437,499"/>
+<area shape="rect" id="node2" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="470,186,549,211"/>
+<area shape="rect" id="node9" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list." alt="" coords="872,218,981,243"/>
+<area shape="rect" id="node3" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="893,267,961,293"/>
+<area shape="rect" id="node4" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="440,261,579,286"/>
+<area shape="rect" id="node5" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="467,327,552,353"/>
+<area shape="rect" id="node21" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="887,323,967,349"/>
+<area shape="rect" id="node26" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="877,373,976,398"/>
+<area shape="rect" id="node6" href="$de/d04/class_member_name_info_linked_map.html" title=" " alt="" coords="821,422,1032,447"/>
+<area shape="rect" id="node7" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="389,406,629,431"/>
+<area shape="rect" id="node8" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="17,399,177,439"/>
+<area shape="rect" id="node10" href="$d0/d18/class_file_list.html" title=" " alt="" coords="893,471,961,497"/>
+<area shape="rect" id="node11" title=" " alt="" coords="439,456,580,496"/>
+<area shape="rect" id="node12" href="$d1/d48/class_example_list.html" title=" " alt="" coords="875,521,978,546"/>
+<area shape="rect" id="node13" title=" " alt="" coords="420,521,599,546"/>
+<area shape="rect" id="node14" href="$da/d08/class_class_linked_ref_map.html" title=" " alt="" coords="852,570,1001,595"/>
+<area shape="rect" id="node15" href="$d2/db7/class_linked_ref_map.html" title=" " alt="" coords="408,570,611,595"/>
+<area shape="rect" id="node16" href="$d2/db7/class_linked_ref_map.html" title="Container class representing a vector of objects with keys." alt="" coords="5,563,188,603"/>
+<area shape="rect" id="node17" href="$dd/d1c/class_uses_class_list.html" title=" " alt="" coords="871,622,983,647"/>
+<area shape="rect" id="node18" title=" " alt="" coords="404,619,615,645"/>
+<area shape="rect" id="node19" href="$d6/d69/class_constraint_class_list.html" title=" " alt="" coords="853,674,1000,699"/>
+<area shape="rect" id="node20" title=" " alt="" coords="405,669,613,709"/>
+<area shape="rect" id="node22" href="$dd/d5a/class_member_lists.html" title=" " alt="" coords="873,734,980,759"/>
+<area shape="rect" id="node23" title=" " alt="" coords="420,733,599,773"/>
+<area shape="rect" id="node24" href="$df/d11/class_member_group_list.html" title=" " alt="" coords="857,790,996,815"/>
+<area shape="rect" id="node25" title=" " alt="" coords="417,797,602,837"/>
+</map>

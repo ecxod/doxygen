@@ -1,0 +1,6 @@
+<map id="SearchIndexExternal" name="SearchIndexExternal">
+<area shape="rect" id="node1" title="Writes search index that should be used with an externally provided search engine,..." alt="" coords="17,255,173,280"/>
+<area shape="rect" id="node2" href="$d4/d7c/struct_search_index_external_1_1_search_doc_entry.html" title=" " alt="" coords="17,152,173,192"/>
+<area shape="rect" id="node3" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node4" href="$d8/d33/class_grow_buf.html" title="Class representing a string buffer optimised for growing." alt="" coords="108,5,187,31"/>
+</map>

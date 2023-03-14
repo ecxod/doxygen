@@ -1,0 +1,13 @@
+<map id="IncludeInfoContext::Private" name="IncludeInfoContext::Private">
+<area shape="rect" id="node1" title=" " alt="" coords="939,151,1084,191"/>
+<area shape="rect" id="node2" href="$d5/dc1/struct_include_info.html" title="Class representing the data associated with a #include statement." alt="" coords="635,79,729,104"/>
+<area shape="rect" id="node3" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="252,29,320,55"/>
+<area shape="rect" id="node4" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,5,144,31"/>
+<area shape="rect" id="node5" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="32,55,117,80"/>
+<area shape="rect" id="node6" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="247,79,325,104"/>
+<area shape="rect" id="node7" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="569,144,795,199"/>
+<area shape="rect" id="node8" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="222,128,350,153"/>
+<area shape="rect" id="node9" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="193,210,379,250"/>
+<area shape="rect" id="node10" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="586,254,778,294"/>
+<area shape="rect" id="node11" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="215,277,357,303"/>
+</map>

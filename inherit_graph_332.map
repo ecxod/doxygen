@@ -1,0 +1,40 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="32,298,117,323"/>
+<area shape="rect" id="node2" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="213,46,293,71"/>
+<area shape="rect" id="node8" href="$d6/d8d/class_concept_def.html" title=" " alt="" coords="204,147,303,173"/>
+<area shape="rect" id="node14" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol." alt="" coords="221,249,285,274"/>
+<area shape="rect" id="node17" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="219,298,287,323"/>
+<area shape="rect" id="node20" href="$d8/d09/class_group_def.html" title="A model of a group of symbols." alt="" coords="211,347,295,373"/>
+<area shape="rect" id="node23" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="204,397,303,422"/>
+<area shape="rect" id="node29" href="$d0/d07/class_namespace_def.html" title="An abstract interface of a namespace symbol." alt="" coords="192,498,315,523"/>
+<area shape="rect" id="node35" href="$dd/d41/class_page_def.html" title="A model of a page symbol." alt="" coords="215,599,291,625"/>
+<area shape="rect" id="node3" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="393,5,546,45"/>
+<area shape="rect" id="node5" href="$d0/dc2/class_class_def_mutable.html" title=" " alt="" coords="403,70,536,95"/>
+<area shape="rect" id="node4" href="$d0/d2b/class_class_def_alias_impl.html" title=" " alt="" coords="660,13,801,38"/>
+<area shape="rect" id="node6" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="633,63,828,103"/>
+<area shape="rect" id="node7" href="$d1/d25/class_class_def_impl.html" title="Implementation of the ClassDef interface." alt="" coords="906,70,1015,95"/>
+<area shape="rect" id="node9" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="393,184,546,224"/>
+<area shape="rect" id="node11" href="$d4/deb/class_concept_def_mutable.html" title=" " alt="" coords="394,134,545,159"/>
+<area shape="rect" id="node10" href="$dd/df3/class_concept_def_alias_impl.html" title=" " alt="" coords="651,191,810,217"/>
+<area shape="rect" id="node12" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="636,127,825,167"/>
+<area shape="rect" id="node13" href="$d8/d72/class_concept_def_impl.html" title=" " alt="" coords="897,134,1024,159"/>
+<area shape="rect" id="node15" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="373,249,566,274"/>
+<area shape="rect" id="node16" href="$d8/db7/class_dir_def_impl.html" title=" " alt="" coords="684,245,777,270"/>
+<area shape="rect" id="node18" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="371,298,568,323"/>
+<area shape="rect" id="node19" href="$d5/d14/class_file_def_impl.html" title=" " alt="" coords="682,294,779,319"/>
+<area shape="rect" id="node21" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="363,347,576,373"/>
+<area shape="rect" id="node22" href="$db/d22/class_group_def_impl.html" title=" " alt="" coords="674,343,787,369"/>
+<area shape="rect" id="node24" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="393,451,546,491"/>
+<area shape="rect" id="node26" href="$dd/d4b/class_member_def_mutable.html" title=" " alt="" coords="393,401,545,426"/>
+<area shape="rect" id="node25" href="$d7/d70/class_member_def_alias_impl.html" title=" " alt="" coords="651,458,811,483"/>
+<area shape="rect" id="node27" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="624,393,837,433"/>
+<area shape="rect" id="node28" href="$d7/d7e/class_member_def_impl.html" title=" " alt="" coords="897,401,1025,426"/>
+<area shape="rect" id="node30" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="393,565,546,605"/>
+<area shape="rect" id="node32" href="$dd/dd5/class_namespace_def_mutable.html" title=" " alt="" coords="382,515,557,541"/>
+<area shape="rect" id="node31" href="$d2/d9c/class_namespace_def_alias_impl.html" title=" " alt="" coords="639,573,822,598"/>
+<area shape="rect" id="node33" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="624,508,837,548"/>
+<area shape="rect" id="node34" href="$d5/dfa/class_namespace_def_impl.html" title=" " alt="" coords="885,515,1036,541"/>
+<area shape="rect" id="node36" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="367,630,572,655"/>
+<area shape="rect" id="node37" href="$dd/de8/class_page_def_impl.html" title=" " alt="" coords="678,630,783,655"/>
+<area shape="rect" id="node38" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,347,144,373"/>
+</map>

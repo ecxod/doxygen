@@ -1,0 +1,44 @@
+<map id="TemplateStructIntf" name="TemplateStructIntf">
+<area shape="rect" id="node1" title="Abstract interface for a context value of type struct." alt="" coords="5,992,148,1017"/>
+<area shape="rect" id="node2" href="$d4/d24/class_argument_context.html" title=" " alt="" coords="251,5,388,31"/>
+<area shape="rect" id="node3" href="$dc/d38/class_class_context.html" title=" " alt="" coords="265,55,373,80"/>
+<area shape="rect" id="node4" href="$de/d04/class_class_hierarchy_context.html" title=" " alt="" coords="234,104,405,129"/>
+<area shape="rect" id="node5" href="$dc/dfb/class_class_index_context.html" title=" " alt="" coords="247,153,391,179"/>
+<area shape="rect" id="node6" href="$dc/da3/class_class_inheritance_node_context.html" title=" " alt="" coords="212,203,427,228"/>
+<area shape="rect" id="node7" href="$d1/d32/class_class_members_index_context.html" title=" " alt="" coords="217,252,422,277"/>
+<area shape="rect" id="node8" href="$dc/d6f/class_class_tree_context.html" title=" " alt="" coords="252,301,387,327"/>
+<area shape="rect" id="node9" href="$d9/da3/class_concept_context.html" title=" " alt="" coords="256,351,383,376"/>
+<area shape="rect" id="node10" href="$d8/d4c/class_concept_tree_context.html" title=" " alt="" coords="243,400,396,425"/>
+<area shape="rect" id="node11" href="$d0/dd1/class_config_context.html" title=" " alt="" coords="262,449,377,475"/>
+<area shape="rect" id="node12" href="$d5/dca/class_dir_context.html" title=" " alt="" coords="273,499,365,524"/>
+<area shape="rect" id="node13" href="$de/d68/class_doxygen_context.html" title=" " alt="" coords="254,548,385,573"/>
+<area shape="rect" id="node14" href="$d5/d67/class_example_tree_context.html" title=" " alt="" coords="241,597,398,623"/>
+<area shape="rect" id="node15" href="$d3/db7/class_file_context.html" title=" " alt="" coords="271,647,367,672"/>
+<area shape="rect" id="node16" href="$d6/dfa/class_file_tree_context.html" title=" " alt="" coords="258,696,381,721"/>
+<area shape="rect" id="node17" href="$da/dba/class_globals_index_context.html" title=" " alt="" coords="240,745,399,771"/>
+<area shape="rect" id="node18" href="$d2/dfe/class_include_info_context.html" title=" " alt="" coords="247,795,392,820"/>
+<area shape="rect" id="node19" href="$d2/d30/class_inheritance_graph_context.html" title=" " alt="" coords="227,844,412,869"/>
+<area shape="rect" id="node20" href="$d6/d29/class_inheritance_node_context.html" title=" " alt="" coords="229,893,409,919"/>
+<area shape="rect" id="node21" href="$d7/dd6/class_inherited_member_info_context.html" title=" " alt="" coords="214,943,425,968"/>
+<area shape="rect" id="node22" href="$d5/d43/class_member_context.html" title=" " alt="" coords="256,992,383,1017"/>
+<area shape="rect" id="node23" href="$d1/d7e/class_member_group_info_context.html" title=" " alt="" coords="224,1041,415,1067"/>
+<area shape="rect" id="node24" href="$d4/d22/class_member_info_context.html" title=" " alt="" coords="243,1091,395,1116"/>
+<area shape="rect" id="node25" href="$d8/df1/class_member_list_info_context.html" title=" " alt="" coords="232,1140,407,1165"/>
+<area shape="rect" id="node26" href="$d2/d73/class_module_context.html" title=" " alt="" coords="259,1189,380,1215"/>
+<area shape="rect" id="node27" href="$dc/d32/class_module_node_context.html" title=" " alt="" coords="242,1239,397,1264"/>
+<area shape="rect" id="node28" href="$d3/d7a/class_module_tree_context.html" title=" " alt="" coords="245,1288,393,1313"/>
+<area shape="rect" id="node29" href="$de/d00/class_namespace_context.html" title=" " alt="" coords="244,1337,395,1363"/>
+<area shape="rect" id="node30" href="$d2/d4a/class_namespace_members_index_context.html" title=" " alt="" coords="196,1387,443,1412"/>
+<area shape="rect" id="node31" href="$d8/dd0/class_namespace_tree_context.html" title=" " alt="" coords="231,1436,408,1461"/>
+<area shape="rect" id="node32" href="$df/d82/class_nav_path_elem_context.html" title=" " alt="" coords="239,1485,399,1511"/>
+<area shape="rect" id="node33" href="$db/dc9/class_nesting_node_context.html" title=" " alt="" coords="241,1535,398,1560"/>
+<area shape="rect" id="node34" href="$db/dc8/class_page_context.html" title=" " alt="" coords="267,1584,371,1609"/>
+<area shape="rect" id="node35" href="$d7/dea/class_page_tree_context.html" title=" " alt="" coords="254,1633,385,1659"/>
+<area shape="rect" id="node36" href="$da/ddb/class_search_index_context.html" title=" " alt="" coords="243,1683,396,1708"/>
+<area shape="rect" id="node37" href="$d0/d4b/class_symbol_context.html" title=" " alt="" coords="258,1732,381,1757"/>
+<area shape="rect" id="node38" href="$d7/d10/class_symbol_group_context.html" title=" " alt="" coords="239,1781,400,1807"/>
+<area shape="rect" id="node39" href="$d3/db8/class_symbol_index_context.html" title=" " alt="" coords="240,1831,399,1856"/>
+<area shape="rect" id="node40" href="$d6/d73/class_template_immutable_struct.html" title="Default implementation of an immutable context value of type struct." alt="" coords="224,1880,415,1905"/>
+<area shape="rect" id="node41" href="$d8/d4b/class_template_struct.html" title="Default implementation of a context value of type struct." alt="" coords="259,1929,379,1955"/>
+<area shape="rect" id="node42" href="$d2/dbb/class_translate_context.html" title=" " alt="" coords="253,1979,385,2004"/>
+</map>

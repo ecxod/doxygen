@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d2/dd3/class_config_option.html" title="Abstract base class for any configuration option." alt="" coords="5,179,112,204"/>
+<area shape="rect" id="node2" href="$d4/ded/class_config_bool.html" title="Class representing a Boolean type option." alt="" coords="175,5,267,31"/>
+<area shape="rect" id="node3" href="$d5/d86/class_config_disabled.html" title="Section marker for compile time optional options." alt="" coords="161,55,281,80"/>
+<area shape="rect" id="node4" href="$df/d59/class_config_enum.html" title="Class representing an enum type option." alt="" coords="171,104,271,129"/>
+<area shape="rect" id="node5" href="$dd/d89/class_config_info.html" title="Section marker for grouping the configuration options." alt="" coords="177,153,265,179"/>
+<area shape="rect" id="node6" href="$d4/d52/class_config_int.html" title="Class representing an integer type option." alt="" coords="181,203,261,228"/>
+<area shape="rect" id="node7" href="$dd/df8/class_config_list.html" title="Class representing a list type option." alt="" coords="177,252,264,277"/>
+<area shape="rect" id="node8" href="$d3/db9/class_config_obsolete.html" title="Section marker for obsolete options." alt="" coords="160,301,281,327"/>
+<area shape="rect" id="node9" href="$d1/dff/class_config_string.html" title="Class representing a string type option." alt="" coords="170,351,271,376"/>
+</map>

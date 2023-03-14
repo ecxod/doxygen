@@ -1,0 +1,4 @@
+<map id="Mappers" name="Mappers">
+<area shape="rect" id="node1" title="Class representing a namespace for the doxygen and HTML command mappers." alt="" coords="5,108,84,133"/>
+<area shape="rect" id="node2" href="$d9/d09/class_mapper.html" title="Class representing a mapping from command names to command IDs." alt="" coords="9,5,80,31"/>
+</map>

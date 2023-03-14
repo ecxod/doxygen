@@ -1,0 +1,6 @@
+<map id="LayoutDocEntrySection" name="LayoutDocEntrySection">
+<area shape="rect" id="node1" title=" " alt="" coords="79,168,252,193"/>
+<area shape="rect" id="node2" href="$d4/dc3/struct_layout_doc_entry_simple.html" title="Represents of a piece of a documentation page without configurable parts." alt="" coords="5,80,176,105"/>
+<area shape="rect" id="node3" href="$d9/dba/struct_layout_doc_entry.html" title="Base class representing a piece of a documentation page." alt="" coords="28,5,153,31"/>
+<area shape="rect" id="node4" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="201,80,279,105"/>
+</map>

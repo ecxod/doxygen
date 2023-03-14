@@ -1,0 +1,59 @@
+digraph "PageDefImpl"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="PageDefImpl",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="DefinitionMixin\< PageDef \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d10/class_definition_mixin.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="PageDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d41/class_page_def.html",tooltip="A model of a page symbol."];
+  Node4 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="DefinitionMutable",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d46/class_definition_mutable.html",tooltip=" "];
+  Node5 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+  Node6 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" m_impl",fontcolor="grey" ];
+  Node6 [label="DefinitionImpl",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/ddf/class_definition_impl.html",tooltip=" "];
+  Node7 -> Node6 [dir="back",color="darkorchid3",style="dashed",label=" m_impl",fontcolor="grey" ];
+  Node7 [label="DefinitionImpl::IMPL",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d50/class_definition_impl_1_1_i_m_p_l.html",tooltip="Private data associated with a Symbol DefinitionImpl object."];
+  Node5 -> Node7 [dir="back",color="darkorchid3",style="dashed",label=" def\nouterScope",fontcolor="grey" ];
+  Node8 -> Node7 [dir="back",color="darkorchid3",style="dashed",label=" sectionRefs",fontcolor="grey" ];
+  Node8 [label="SectionRefs",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d1/df9/class_section_refs.html",tooltip="class that represents a list of constant references to sections."];
+  Node9 -> Node7 [dir="back",color="darkorchid3",style="dashed",label=" partOfGroups",fontcolor="grey" ];
+  Node9 [label="GroupList",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/d3b/class_group_list.html",tooltip=" "];
+  Node10 -> Node9 [dir="back",color="steelblue1",style="solid"];
+  Node10 [label="std::vector\< GroupDef * \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node11 -> Node7 [dir="back",color="darkorchid3",style="dashed",label=" details\ninbodyDocs",fontcolor="grey" ];
+  Node11 [label="DocInfo",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dd5/struct_doc_info.html",tooltip="Data associated with a detailed description."];
+  Node12 -> Node11 [dir="back",color="darkorchid3",style="dashed",label=" doc\nfile",fontcolor="grey" ];
+  Node12 [label="QCString",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/d45/class_q_c_string.html",tooltip="This is an alternative implementation of QCString."];
+  Node13 -> Node7 [dir="back",color="darkorchid3",style="dashed",label=" brief",fontcolor="grey" ];
+  Node13 [label="BriefInfo",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/da7/struct_brief_info.html",tooltip="Data associated with a brief description."];
+  Node12 -> Node13 [dir="back",color="darkorchid3",style="dashed",label=" doc\nfile\ntooltip",fontcolor="grey" ];
+  Node14 -> Node7 [dir="back",color="darkorchid3",style="dashed",label=" body",fontcolor="grey" ];
+  Node14 [label="BodyInfo",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$db/dab/struct_body_info.html",tooltip="Data associated with description found in the body."];
+  Node15 -> Node14 [dir="back",color="darkorchid3",style="dashed",label=" fileDef",fontcolor="grey" ];
+  Node15 [label="FileDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$de/db0/class_file_def.html",tooltip="A model of a file symbol."];
+  Node4 -> Node15 [dir="back",color="steelblue1",style="solid"];
+  Node5 -> Node15 [dir="back",color="steelblue1",style="solid"];
+  Node12 -> Node7 [dir="back",color="darkorchid3",style="dashed",label=" briefSignatures\ndefFileExt\ndefFileName\ndocSignatures\nid\nlocalName\nname\nqualifiedName\nref\nsymbolName\n...",fontcolor="grey" ];
+  Node16 -> Node7 [dir="back",color="darkorchid3",style="dashed",label=" referencedByMembers\nreferencesMembers",fontcolor="grey" ];
+  Node16 [label="MemberVector",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d1/d7d/class_member_vector.html",tooltip="A vector of MemberDef object."];
+  Node17 -> Node2 [dir="back",color="orange",style="dashed",label=" \< PageDef \>",fontcolor="grey" ];
+  Node17 [label="DefinitionMixin\< Base \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d10/class_definition_mixin.html",tooltip=" "];
+  Node18 -> Node17 [dir="back",color="steelblue1",style="solid"];
+  Node18 [label="Base",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node17 [dir="back",color="darkorchid3",style="dashed",label=" m_impl",fontcolor="grey" ];
+  Node12 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_fileName\nm_title",fontcolor="grey" ];
+  Node19 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_subPages",fontcolor="grey" ];
+  Node19 [label="PageLinkedRefMap",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/de6/class_page_linked_ref_map.html",tooltip=" "];
+  Node20 -> Node19 [dir="back",color="steelblue1",style="solid"];
+  Node20 [label="LinkedRefMap\< const\l PageDef \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d2/db7/class_linked_ref_map.html",tooltip=" "];
+  Node21 -> Node20 [dir="back",color="orange",style="dashed",label=" \< const PageDef \>",fontcolor="grey" ];
+  Node21 [label="LinkedRefMap\< T, Hash,\l KeyEqual, Map \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d2/db7/class_linked_ref_map.html",tooltip="Container class representing a vector of objects with keys."];
+  Node5 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_pageScope",fontcolor="grey" ];
+  Node22 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_localToc",fontcolor="grey" ];
+  Node22 [label="LocalToc",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$da/d1d/class_local_toc.html",tooltip=" "];
+}

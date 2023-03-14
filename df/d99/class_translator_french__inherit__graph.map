@@ -1,0 +1,7 @@
+<map id="TranslatorFrench" name="TranslatorFrench">
+<area shape="rect" id="node1" title=" " alt="" coords="32,299,161,324"/>
+<area shape="rect" id="node2" href="$dd/dba/class_translator_adapter__1__9__5.html" title=" " alt="" coords="5,225,188,251"/>
+<area shape="rect" id="node3" href="$db/d71/class_translator_adapter__1__9__6.html" title=" " alt="" coords="5,152,188,177"/>
+<area shape="rect" id="node4" href="$db/d6c/class_translator_adapter_base.html" title="Base of the translator adapter tree." alt="" coords="12,79,181,104"/>
+<area shape="rect" id="node5" href="$d8/dfb/class_translator.html" title="Abstract base class for all translatable text fragments." alt="" coords="53,5,140,31"/>
+</map>

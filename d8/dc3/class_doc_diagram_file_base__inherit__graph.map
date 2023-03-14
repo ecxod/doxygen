@@ -1,0 +1,8 @@
+<map id="DocDiagramFileBase" name="DocDiagramFileBase">
+<area shape="rect" id="node1" title=" " alt="" coords="89,152,248,177"/>
+<area shape="rect" id="node4" href="$d6/ddb/class_doc_dia_file.html" title="Node representing a dia file." alt="" coords="5,225,97,251"/>
+<area shape="rect" id="node5" href="$df/d37/class_doc_dot_file.html" title="Node representing a dot file." alt="" coords="122,225,215,251"/>
+<area shape="rect" id="node6" href="$d3/d7d/class_doc_msc_file.html" title="Node representing a msc file." alt="" coords="239,225,335,251"/>
+<area shape="rect" id="node2" href="$da/dfc/class_doc_compound_node.html" title="Base class for nodes with children." alt="" coords="93,79,244,104"/>
+<area shape="rect" id="node3" href="$d9/d0e/class_doc_node.html" title="Abstract node interface with type information." alt="" coords="128,5,209,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PerlModDocVisitor" name="PerlModDocVisitor">
+<area shape="rect" id="node1" title="Concrete visitor implementation for PerlMod output." alt="" coords="107,181,249,207"/>
+<area shape="rect" id="node2" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="5,93,95,119"/>
+<area shape="rect" id="node3" href="$d5/d6c/class_perl_mod_output.html" title=" " alt="" coords="119,93,237,119"/>
+<area shape="rect" id="node4" href="$d4/de6/class_perl_mod_output_stream.html" title=" " alt="" coords="95,5,261,31"/>
+<area shape="rect" id="node5" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="261,93,340,119"/>
+</map>

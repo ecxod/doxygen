@@ -1,0 +1,8 @@
+<map id="PythonOutlineParser::Private" name="PythonOutlineParser::Private">
+<area shape="rect" id="node1" title=" " alt="" coords="244,255,399,295"/>
+<area shape="rect" id="node2" href="$d9/dcc/structpyscanner_y_y__state.html" title=" " alt="" coords="249,167,394,192"/>
+<area shape="rect" id="node3" href="$d0/d6b/class_comment_scanner.html" title=" " alt="" coords="5,5,144,31"/>
+<area shape="rect" id="node4" href="$d5/d79/class_outline_parser_interface.html" title="Abstract interface for outline parsers." alt="" coords="169,5,335,31"/>
+<area shape="rect" id="node5" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="359,5,438,31"/>
+<area shape="rect" id="node6" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="468,5,564,31"/>
+</map>

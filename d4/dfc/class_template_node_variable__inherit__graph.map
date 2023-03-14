@@ -1,0 +1,4 @@
+<map id="TemplateNodeVariable" name="TemplateNodeVariable">
+<area shape="rect" id="node1" title="Class representing a variable in a template." alt="" coords="5,79,175,104"/>
+<area shape="rect" id="node2" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="32,5,148,31"/>
+</map>

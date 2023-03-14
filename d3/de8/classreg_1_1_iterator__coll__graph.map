@@ -1,0 +1,5 @@
+<map id="reg::Iterator" name="reg::Iterator">
+<area shape="rect" id="node1" title="Iterator class to iterator through matches." alt="" coords="40,93,139,119"/>
+<area shape="rect" id="node2" href="$d2/dd8/classreg_1_1_ex.html" title="Class representing a regular expression." alt="" coords="5,5,72,31"/>
+<area shape="rect" id="node3" href="$d2/ddf/classreg_1_1_match.html" title="Object representing the matching results." alt="" coords="96,5,187,31"/>
+</map>

@@ -1,0 +1,17 @@
+digraph "PerlModDocVisitor"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="PerlModDocVisitor",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Concrete visitor implementation for PerlMod output."];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="DocVisitor",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d78/class_doc_visitor.html",tooltip="Helper base class for functionality shared by all visitors."];
+  Node3 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_output",fontcolor="grey" ];
+  Node3 [label="PerlModOutput",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/d6c/class_perl_mod_output.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="darkorchid3",style="dashed",label=" m_stream",fontcolor="grey" ];
+  Node4 [label="PerlModOutputStream",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d4/de6/class_perl_mod_output_stream.html",tooltip=" "];
+  Node5 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" m_other",fontcolor="grey" ];
+  Node5 [label="QCString",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/d45/class_q_c_string.html",tooltip="This is an alternative implementation of QCString."];
+}

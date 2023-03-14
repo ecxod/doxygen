@@ -1,0 +1,22 @@
+digraph "DocTokenizer::Private"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="DocTokenizer::Private",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",style="dashed",label=" extra",fontcolor="grey" ];
+  Node2 [label="doctokenizerYY_state",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/de7/structdoctokenizer_y_y__state.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" token",fontcolor="grey" ];
+  Node3 [label="TokenInfo",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d6/df4/struct_token_info.html",tooltip="Data associated with a token used by the comment block parser."];
+  Node4 -> Node3 [dir="back",color="darkorchid3",style="dashed",label=" attribsStr\nchars\nname\nsectionId\nsimpleSectName\nsimpleSectText\ntext\nverb",fontcolor="grey" ];
+  Node4 [label="QCString",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/d45/class_q_c_string.html",tooltip="This is an alternative implementation of QCString."];
+  Node5 -> Node3 [dir="back",color="darkorchid3",style="dashed",label=" attribs",fontcolor="grey" ];
+  Node5 [label="HtmlAttribList",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$db/d4d/class_html_attrib_list.html",tooltip="Class representing a list of HTML attributes."];
+  Node6 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="std::vector\< HtmlAttrib \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node4 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" endMarker\nfileName\nsecLabel\nsecTitle",fontcolor="grey" ];
+  Node7 -> Node2 [dir="back",color="darkorchid3",style="dashed",label=" definition",fontcolor="grey" ];
+  Node7 [label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+}

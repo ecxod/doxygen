@@ -1,0 +1,9 @@
+<map id="LatexDocVisitor" name="LatexDocVisitor">
+<area shape="rect" id="node1" title="Concrete visitor implementation for LaTeX output." alt="" coords="615,171,740,196"/>
+<area shape="rect" id="node2" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="326,5,415,31"/>
+<area shape="rect" id="node3" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="5,75,101,100"/>
+<area shape="rect" id="node5" href="$d0/d37/class_latex_code_generator.html" title="Generator for LaTeX code fragments." alt="" coords="293,144,449,169"/>
+<area shape="rect" id="node4" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="309,257,432,283"/>
+<area shape="rect" id="node6" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="14,173,93,199"/>
+<area shape="rect" id="node7" href="$da/dc3/struct_latex_doc_visitor_1_1_latex_list_item_info.html" title=" " alt="" coords="275,307,467,347"/>
+</map>

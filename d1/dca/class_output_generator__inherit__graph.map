@@ -1,0 +1,8 @@
+<map id="OutputGenerator" name="OutputGenerator">
+<area shape="rect" id="node1" title="Base class for specific output generators." alt="" coords="313,5,444,31"/>
+<area shape="rect" id="node2" href="$d1/d72/class_docbook_generator.html" title=" " alt="" coords="5,79,149,104"/>
+<area shape="rect" id="node3" href="$d7/d41/class_html_generator.html" title="Generator for HTML output." alt="" coords="174,79,293,104"/>
+<area shape="rect" id="node4" href="$d3/d77/class_latex_generator.html" title="Generator for LaTeX output." alt="" coords="317,79,440,104"/>
+<area shape="rect" id="node5" href="$de/da5/class_man_generator.html" title="Generator for Man page output." alt="" coords="464,79,579,104"/>
+<area shape="rect" id="node6" href="$d0/da4/class_r_t_f_generator.html" title="Generator for RTF output." alt="" coords="603,79,714,104"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="InheritanceGraphContext::Private" name="InheritanceGraphContext::Private">
+<area shape="rect" id="node1" title=" " alt="" coords="939,145,1124,185"/>
+<area shape="rect" id="node2" href="$dd/d7e/class_dot_node.html" title="A node in a dot graph." alt="" coords="671,77,749,102"/>
+<area shape="rect" id="node3" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="193,27,272,53"/>
+<area shape="rect" id="node4" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="193,77,273,102"/>
+<area shape="rect" id="node5" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,77,91,102"/>
+<area shape="rect" id="node6" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="591,138,829,193"/>
+<area shape="rect" id="node7" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="169,126,297,151"/>
+<area shape="rect" id="node8" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="140,193,325,233"/>
+<area shape="rect" id="node9" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="613,241,807,281"/>
+<area shape="rect" id="node10" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="161,261,304,286"/>
+</map>

@@ -1,0 +1,13 @@
+digraph "TemplateListIntf::ConstIterator"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="TemplateListIntf::ConstIterator",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Abstract interface for a iterator of a list."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="GenericConstIterator",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$df/d6e/class_generic_const_iterator.html",tooltip="Template List iterator support."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="TemplateListGenericConst\lIterator\< List \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/d7c/class_template_list_generic_const_iterator.html",tooltip=" "];
+}

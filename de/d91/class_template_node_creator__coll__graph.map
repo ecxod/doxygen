@@ -1,0 +1,5 @@
+<map id="TemplateNodeCreator&lt; T &gt;" name="TemplateNodeCreator&lt; T &gt;">
+<area shape="rect" id="node1" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="121,93,323,119"/>
+<area shape="rect" id="node2" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,5,121,31"/>
+<area shape="rect" id="node3" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="236,5,315,31"/>
+</map>

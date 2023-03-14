@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="5,179,95,204"/>
+<area shape="rect" id="node2" href="$d7/dc4/class_docbook_doc_visitor.html" title="Concrete visitor implementation for Docbook output." alt="" coords="143,5,289,31"/>
+<area shape="rect" id="node3" href="$d5/d1b/class_html_doc_visitor.html" title="Concrete visitor implementation for HTML output." alt="" coords="155,55,277,80"/>
+<area shape="rect" id="node4" href="$d3/df4/class_latex_doc_visitor.html" title="Concrete visitor implementation for LaTeX output." alt="" coords="153,104,279,129"/>
+<area shape="rect" id="node5" href="$d8/dcf/class_man_doc_visitor.html" title="Concrete visitor implementation for LaTeX output." alt="" coords="157,153,275,179"/>
+<area shape="rect" id="node6" href="$dc/d27/class_perl_mod_doc_visitor.html" title="Concrete visitor implementation for PerlMod output." alt="" coords="145,203,287,228"/>
+<area shape="rect" id="node7" href="$d1/d4b/class_r_t_f_doc_visitor.html" title="Concrete visitor implementation for RTF output." alt="" coords="159,252,273,277"/>
+<area shape="rect" id="node8" href="$d2/d63/class_text_doc_visitor.html" title="Concrete visitor implementation for TEXT output." alt="" coords="158,301,274,327"/>
+<area shape="rect" id="node9" href="$d4/dc8/class_xml_doc_visitor.html" title="Concrete visitor implementation for XML output." alt="" coords="159,351,273,376"/>
+</map>

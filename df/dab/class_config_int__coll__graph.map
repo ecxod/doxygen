@@ -1,0 +1,5 @@
+<map id="ConfigInt" name="ConfigInt">
+<area shape="rect" id="node1" title="Class representing an integer type option." alt="" coords="35,241,115,267"/>
+<area shape="rect" id="node2" href="$d2/dd3/class_config_option.html" title="Abstract base class for any configuration option." alt="" coords="146,167,253,192"/>
+<area shape="rect" id="node3" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,5,84,31"/>
+</map>

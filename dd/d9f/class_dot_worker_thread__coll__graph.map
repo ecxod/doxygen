@@ -1,0 +1,4 @@
+<map id="DotWorkerThread" name="DotWorkerThread">
+<area shape="rect" id="node1" title="Worker thread to execute a dot run." alt="" coords="5,93,140,119"/>
+<area shape="rect" id="node2" href="$d6/dbb/class_dot_runner_queue.html" title="Queue of dot jobs to run." alt="" coords="6,5,139,31"/>
+</map>

@@ -1,0 +1,18 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [label="TextGeneratorIntf",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d0/dcf/class_text_generator_intf.html",tooltip="Abstract interface for a hyperlinked text fragment."];
+  Node0 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node1 [label="TextGeneratorHtml",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d7/d8a/class_text_generator_html.html",tooltip=" "];
+  Node0 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="TextGeneratorLatex",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d7/d67/class_text_generator_latex.html",tooltip=" "];
+  Node0 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="TextGeneratorOLImpl",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$db/d2b/class_text_generator_o_l_impl.html",tooltip="Implements TextGeneratorIntf for an OutputDocInterface stream."];
+  Node0 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="TextGeneratorXMLImpl",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$db/d9f/class_text_generator_x_m_l_impl.html",tooltip="Implements TextGeneratorIntf for an XML stream."];
+}

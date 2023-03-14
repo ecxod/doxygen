@@ -1,0 +1,9 @@
+<map id="DotGfxHierarchyTable" name="DotGfxHierarchyTable">
+<area shape="rect" id="node1" title="Represents a graphical class hierarchy." alt="" coords="126,315,291,340"/>
+<area shape="rect" id="node2" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="56,227,140,252"/>
+<area shape="rect" id="node3" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="5,80,47,105"/>
+<area shape="rect" id="node4" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="169,80,248,105"/>
+<area shape="rect" id="node5" href="$dd/d7e/class_dot_node.html" title="A node in a dot graph." alt="" coords="295,227,373,252"/>
+<area shape="rect" id="node6" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="306,80,386,105"/>
+<area shape="rect" id="node7" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="303,5,389,31"/>
+</map>

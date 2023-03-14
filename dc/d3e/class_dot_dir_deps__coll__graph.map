@@ -1,0 +1,9 @@
+<map id="DotDirDeps" name="DotDirDeps">
+<area shape="rect" id="node1" title="Representation of an directory dependency graph." alt="" coords="127,240,224,265"/>
+<area shape="rect" id="node2" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="68,152,152,177"/>
+<area shape="rect" id="node3" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="5,5,47,31"/>
+<area shape="rect" id="node4" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="71,5,149,31"/>
+<area shape="rect" id="node5" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol." alt="" coords="211,152,275,177"/>
+<area shape="rect" id="node6" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="174,5,313,31"/>
+<area shape="rect" id="node7" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="337,5,422,31"/>
+</map>

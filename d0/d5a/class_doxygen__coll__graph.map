@@ -1,0 +1,35 @@
+<map id="Doxygen" name="Doxygen">
+<area shape="rect" id="node1" title="This class serves as a namespace for global variables used by doxygen." alt="" coords="1291,497,1371,522"/>
+<area shape="rect" id="node2" href="$d0/d10/class_class_linked_map.html" title=" " alt="" coords="917,41,1043,66"/>
+<area shape="rect" id="node3" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="456,41,636,66"/>
+<area shape="rect" id="node4" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="5,292,165,332"/>
+<area shape="rect" id="node6" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="447,91,645,117"/>
+<area shape="rect" id="node8" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="458,142,634,167"/>
+<area shape="rect" id="node10" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="436,191,656,275"/>
+<area shape="rect" id="node12" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="439,299,653,325"/>
+<area shape="rect" id="node14" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="454,349,638,374"/>
+<area shape="rect" id="node16" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="435,398,657,423"/>
+<area shape="rect" id="node28" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="464,447,628,473"/>
+<area shape="rect" id="node30" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="449,497,643,522"/>
+<area shape="rect" id="node5" href="$db/ded/class_concept_linked_map.html" title=" " alt="" coords="907,90,1053,115"/>
+<area shape="rect" id="node7" href="$d9/d5e/class_page_linked_map.html" title=" " alt="" coords="919,145,1041,170"/>
+<area shape="rect" id="node9" href="$d0/d2c/class_file_name_linked_map.html" title="Ordered dictionary of FileName objects." alt="" coords="903,242,1057,267"/>
+<area shape="rect" id="node11" href="$da/d3d/class_member_name_linked_map.html" title="Ordered dictionary of MemberName objects." alt="" coords="887,299,1073,325"/>
+<area shape="rect" id="node13" href="$d3/dbd/class_group_linked_map.html" title=" " alt="" coords="915,349,1045,374"/>
+<area shape="rect" id="node15" href="$d7/d60/class_namespace_linked_map.html" title=" " alt="" coords="895,398,1065,423"/>
+<area shape="rect" id="node17" href="$dd/dd5/class_namespace_def_mutable.html" title=" " alt="" coords="893,561,1067,586"/>
+<area shape="rect" id="node18" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="477,546,615,571"/>
+<area shape="rect" id="node19" href="$d0/d07/class_namespace_def.html" title="An abstract interface of a namespace symbol." alt="" coords="485,595,607,621"/>
+<area shape="rect" id="node20" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="43,595,128,621"/>
+<area shape="rect" id="node21" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="46,667,125,693"/>
+<area shape="rect" id="node32" href="$df/d04/struct_parser_manager_1_1_parser_pair.html" title=" " alt="" coords="451,697,641,722"/>
+<area shape="rect" id="node22" href="$d8/d4d/class_search_index_intf.html" title="Abstract proxy interface for non&#45;javascript based search indices." alt="" coords="918,711,1042,737"/>
+<area shape="rect" id="node23" href="$d4/d85/class_symbol_map.html" title=" " alt="" coords="884,761,1076,786"/>
+<area shape="rect" id="node24" href="$d4/d85/class_symbol_map.html" title="Class implementing a symbol map that maps symbol names to objects." alt="" coords="477,761,615,786"/>
+<area shape="rect" id="node25" href="$dc/d67/class_cache.html" title=" " alt="" coords="907,811,1053,851"/>
+<area shape="rect" id="node26" href="$dc/d67/class_cache.html" title=" " alt="" coords="487,818,605,843"/>
+<area shape="rect" id="node27" href="$de/d40/class_dir_linked_map.html" title="A linked map of directories." alt="" coords="925,447,1035,473"/>
+<area shape="rect" id="node29" href="$d4/d03/class_dir_relation_linked_map.html" title=" " alt="" coords="897,505,1063,530"/>
+<area shape="rect" id="node31" href="$d4/d0d/class_parser_manager.html" title="Manages programming language parsers." alt="" coords="921,662,1039,687"/>
+<area shape="rect" id="node33" href="$d9/d57/class_index_list.html" title="A list of index interfaces." alt="" coords="939,875,1021,901"/>
+</map>

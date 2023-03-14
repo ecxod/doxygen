@@ -1,0 +1,16 @@
+digraph "/home/runner/work/doxygen/doxygen/vhdlparser/vhdlstring.h"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/vhdlstring.h",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/VhdlParser\lErrorHandler.hpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d2/dc3/_vhdl_parser_error_handler_8hpp.html",tooltip=" "];
+  Node2 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="/home/runner/work/doxygen\l/doxygen/src/vhdljjparser.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d1/d86/vhdljjparser_8cpp.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="/home/runner/work/doxygen\l/doxygen/vhdlparser/VhdlParser\lTokenManager.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d7/dad/_vhdl_parser_token_manager_8h.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="steelblue1",style="solid"];
+}

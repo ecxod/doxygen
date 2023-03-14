@@ -1,0 +1,10 @@
+<map id="ClassHierarchyContext::Private" name="ClassHierarchyContext::Private">
+<area shape="rect" id="node1" title=" " alt="" coords="919,140,1089,180"/>
+<area shape="rect" id="node2" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="498,6,737,61"/>
+<area shape="rect" id="node3" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,88,191,128"/>
+<area shape="rect" id="node4" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="498,85,737,139"/>
+<area shape="rect" id="node5" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="488,163,747,218"/>
+<area shape="rect" id="node6" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="34,215,162,241"/>
+<area shape="rect" id="node7" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="508,255,727,295"/>
+<area shape="rect" id="node8" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="27,275,169,301"/>
+</map>

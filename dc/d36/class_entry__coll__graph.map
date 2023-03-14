@@ -1,0 +1,11 @@
+<map id="Entry" name="Entry">
+<area shape="rect" id="node1" title="Represents an unstructured piece of information, about an entity found in the sources." alt="" coords="316,361,372,387"/>
+<area shape="rect" id="node2" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="117,5,196,31"/>
+<area shape="rect" id="node3" href="$d3/dc3/struct_tag_info.html" title="This struct is used to capture the tag file information for an Entry." alt="" coords="122,191,191,216"/>
+<area shape="rect" id="node4" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list." alt="" coords="215,191,324,216"/>
+<area shape="rect" id="node5" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="348,191,444,216"/>
+<area shape="rect" id="node6" href="$da/d1d/class_local_toc.html" title=" " alt="" coords="468,191,546,216"/>
+<area shape="rect" id="node7" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="570,191,638,216"/>
+<area shape="rect" id="node8" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="467,5,606,31"/>
+<area shape="rect" id="node9" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="630,5,715,31"/>
+</map>
