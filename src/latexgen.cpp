@@ -95,6 +95,10 @@ void LatexCodeGenerator::codify(const QCString &str)
                    m_col++;
                    p++;
                    break;
+        case '`':  *m_t <<"\\`{}";
+                   m_col++;
+                   p++;
+                   break;
         case '\t': spacesToNextTabStop =
                          tabSize - (m_col%tabSize);
                    for (i = 0; i < spacesToNextTabStop; i++) *m_t << (m_doxyCodeLineOpen ? "\\ " : " ");
@@ -377,7 +381,7 @@ static void writeLatexMakefile()
     t << "\techo \"Rerunning latex....\"\n"
       << "\t$(LATEX_CMD) $(MANUAL_FILE).tex\n"
       << "\tlatex_count=$(LATEX_COUNT) ; \\\n"
-      << "\twhile egrep -s 'Rerun (LaTeX|to get cross-references right|to get bibliographical references right)' $(MANUAL_FILE).log && [ $$latex_count -gt 0 ] ;\\\n"
+      << "\twhile grep -E -s 'Rerun (LaTeX|to get cross-references right|to get bibliographical references right)' $(MANUAL_FILE).log && [ $$latex_count -gt 0 ] ;\\\n"
       << "\t    do \\\n"
       << "\t      echo \"Rerunning latex....\" ;\\\n"
       << "\t      $(LATEX_CMD) $(MANUAL_FILE).tex ; \\\n"
@@ -405,7 +409,7 @@ static void writeLatexMakefile()
     }
     t << "\t$(LATEX_CMD) $(MANUAL_FILE)\n"
       << "\tlatex_count=$(LATEX_COUNT) ; \\\n"
-      << "\twhile egrep -s 'Rerun (LaTeX|to get cross-references right|to get bibliographical references right)' $(MANUAL_FILE).log && [ $$latex_count -gt 0 ] ;\\\n"
+      << "\twhile grep -E -s 'Rerun (LaTeX|to get cross-references right|to get bibliographical references right)' $(MANUAL_FILE).log && [ $$latex_count -gt 0 ] ;\\\n"
       << "\t    do \\\n"
       << "\t      echo \"Rerunning latex....\" ;\\\n"
       << "\t      $(LATEX_CMD) $(MANUAL_FILE) ;\\\n"
@@ -1526,7 +1530,7 @@ void LatexGenerator::startDoxyAnchor(const QCString &fName,const QCString &,
 {
   bool pdfHyperlinks = Config_getBool(PDF_HYPERLINKS);
   bool usePDFLatex   = Config_getBool(USE_PDFLATEX);
-  m_t << "\\mbox{";
+  if (m_insideTableEnv) m_t << "\\mbox{"; // see issue #6093
   if (usePDFLatex && pdfHyperlinks)
   {
     m_t << "\\Hypertarget{";
@@ -1537,7 +1541,8 @@ void LatexGenerator::startDoxyAnchor(const QCString &fName,const QCString &,
   m_t << "\\label{";
   if (!fName.isEmpty()) m_t << stripPath(fName);
   if (!anchor.isEmpty()) m_t << "_" << anchor;
-  m_t << "}} \n";
+  if (m_insideTableEnv) m_t << "}";
+  m_t << "} \n";
 }
 
 void LatexGenerator::endDoxyAnchor(const QCString &/* fName */,const QCString &/* anchor */)
@@ -2129,10 +2134,12 @@ void LatexGenerator::startMemberDocSimple(bool isEnum)
     docify(theTranslator->trCompoundMembers());
   }
   m_t << "}\n";
+  m_insideTableEnv=true;
 }
 
 void LatexGenerator::endMemberDocSimple(bool isEnum)
 {
+  m_insideTableEnv=false;
   m_codeGen->decUsedTableLevel();
   if (isEnum)
   {
